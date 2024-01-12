@@ -1,0 +1,55 @@
+{
+    "name": "Nishanth M",
+    "designation": "Student in GUVI",
+    "contact": {
+      "email": "nishanthmohan2k15@gmail.com",
+      "phone": "6369303696",
+      "linkedin": "https://www.linkedin.com/in/nishanth-m-65b34b125/",
+      "github": "https://github.com/Nishanth-Mohan"
+    },
+    "summary": "Full-stack developer with a passion for creating efficient and scalable solutions. Skilled in full-stack web development with a focus on front-end technologies.",
+    "education": [
+      {
+        "degree": "BE in Mechanical Engineering",
+        "institution": "Sri Sairam engineering college, chennai",
+        "year": 2015
+      }
+    ],
+    "experience": [
+      {
+        "designation": "Senior Process Associate",
+        "company": "Wipro Technologies",
+        "location": "chennai, INDIA",
+        "startDate": "2018-12-07",
+        "endDate": "2021-08-23",
+        "responsibilities": [
+          "Creating the customized quote in SAP as per customer requirement.",
+          "Validate the legal documents in the sharepoint and Verify customer payment option and generate invoice in SAP."
+        ]
+      },
+      {
+        "designation": "Senior Process Associate",
+        "company": "Tata Consulting Services",
+        "location": "chennai, INDIA",
+        "startDate": "2022-02-02",
+        "endDate": "2023-11-22",
+        "responsibilities": [
+          "From Sharepoint ID's has been taken export and allocate request to team members.",
+          "Verify the legal documents and do quality checks and make necessary changes if needed."
+        ]
+      }
+    ],
+    "skills": [
+      "JavaScript (ES6)",
+      "React",
+      "Node.js",
+      "HTML5",
+      "CSS3",
+      "Git",
+      "Responsive Design"
+    ],
+    "languages": ["English", "Tamil"],
+    "interests": ["Open Source Projects", "Technology Trends", "Hiking"]
+}
+
+
